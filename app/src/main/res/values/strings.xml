@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pick image</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello all!!!=</string>
+    <color name="Red">#FF0000</color>
+    <color name="White">#FFFFFF</color>
+    <string name="Username">Name :</string>
+    <string name="Login">Login</string>
+
+</resources>
